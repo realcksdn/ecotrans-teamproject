@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2c83b00a589e494c81831a84257d683, type: 3}
+  m_Name: 08. HighOxyzenTank
+  m_EditorClassIdentifier: 
+  equipmentName: HighOxyzenTank
+  value: 2
+  category: Oxyzen
+  requiredResourcesList:
+  - resource: {fileID: 11400000, guid: 39f075dce039a1b4caaa71ed41507ca7, type: 2}
+    amount: 8
+  - resource: {fileID: 11400000, guid: fa595317d4b169c4d9f08a05c4760335, type: 2}
+    amount: 5
+  - resource: {fileID: 11400000, guid: e09eae5c1111f264eab45c2ae246f1d1, type: 2}
+    amount: 4
+  - resource: {fileID: 11400000, guid: 764c5fb50d5ebaf488a2a5973f0e8c4a, type: 2}
+    amount: 2

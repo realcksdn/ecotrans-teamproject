@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 751d9ef131ec6f84e9c8e4f7d51483ef, type: 3}
+  m_Name: 02. PlasticBottle
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a04187d7413972d49a93261e7a8f69de, type: 3}
+  category: {fileID: 11400000, guid: 6a43588249af5934882502fcd91e33da, type: 2}
+  value: 4
+  trashName: "\uD50C\uB77C\uC2A4\uD2F1 \uBCD1"
+  explanation: "\uBB34\uC0C9 \uD398\uD2B8\uBCD1\uC740 \uACE0\uD488\uC9C8\uC758 \uC7AC\uC0DD
+    \uC6D0\uB8CC\uB85C \uC7AC\uD65C\uC6A9\uB418\uBBC0\uB85C \uC720\uC0C9 \uD50C\uB77C\uC2A4\uD2F1\uACFC
+    \uC11E\uC774\uC9C0 \uC54A\uB3C4\uB85D \uBD84\uB9AC \uBC30\uCD9C \uD574\uC57C\uD569\uB2C8\uB2E4.
+    \uBD99\uC5B4\uC788\uB294 \uB77C\uBCA8\uACFC \uC774\uBB3C\uC9C8\uC740 \uAF2D \uC81C\uAC70\uD574\uC57C
+    \uD569\uB2C8\uB2E4."
+  isRemove: 1
+  isClean: 1
+  isPressure: 1

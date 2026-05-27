@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2c83b00a589e494c81831a84257d683, type: 3}
+  m_Name: 09. FertilizerBag
+  m_EditorClassIdentifier: 
+  equipmentName: FertilizerBag
+  value: 0
+  category: Fertilizer
+  equipEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  requiredResourcesList:
+  - resource: {fileID: 11400000, guid: 0264eb944461f42498029d69e42deb39, type: 2}
+    amount: 3
+  - resource: {fileID: 11400000, guid: 6a43588249af5934882502fcd91e33da, type: 2}
+    amount: 5
+  - resource: {fileID: 11400000, guid: 22a24a7c6616b694cb5082b646b169a1, type: 2}
+    amount: 3
+  - resource: {fileID: 11400000, guid: fa595317d4b169c4d9f08a05c4760335, type: 2}
+    amount: 8

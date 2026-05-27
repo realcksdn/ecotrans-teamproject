@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 751d9ef131ec6f84e9c8e4f7d51483ef, type: 3}
+  m_Name: 08. Apple
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 6f95bceaecfa35142b5643e466061814, type: 3}
+  category: {fileID: 11400000, guid: fa595317d4b169c4d9f08a05c4760335, type: 2}
+  value: 2
+  trashName: "\uB2E4 \uBA39\uC740 \uC0AC\uACFC"
+  explanation: "\uC74C\uC2DD\uBB3C \uC4F0\uB808\uAE30\uB294 \uBC30\uCD9C \uC804 \uC218\uBD84\uACFC
+    \uC591\uB150\uC744 \uC81C\uAC70\uD558\uACE0, \uC74C\uC2DD\uBB3C \uC774\uC678\uC758
+    \uC4F0\uB808\uAE30\uB294 \uBD84\uB9AC\uD574\uC57C \uD569\uB2C8\uB2E4."
+  isRemove: 0
+  isClean: 0
+  isPressure: 0

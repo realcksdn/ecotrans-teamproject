@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 751d9ef131ec6f84e9c8e4f7d51483ef, type: 3}
+  m_Name: 03. Convenience
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: e6bdea4a79ab8d640ad771ff18a7e059, type: 3}
+  category: {fileID: 11400000, guid: 6a43588249af5934882502fcd91e33da, type: 2}
+  value: 3
+  trashName: "\uD3B8\uC758\uC810 \uB3C4\uC2DC\uB77D"
+  explanation: "\uC720\uC0C9 \uD50C\uB77C\uC2A4\uD2F1\uC740 \uC7AC\uC9C8\uC5D0 \uBD88\uC21C\uBB3C\uC774
+    \uD3EC\uD568\uB3FC \uC7AC\uD65C\uC6A9\uC774 \uC5B4\uB824\uC6CC \uC77C\uBC18 \uD50C\uB77C\uC2A4\uD2F1\uACFC
+    \uD568\uAED8 \uBD84\uB9AC \uBC30\uCD9C\uD574\uC57C \uD569\uB2C8\uB2E4."
+  isRemove: 1
+  isClean: 1
+  isPressure: 0
